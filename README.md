@@ -1,7 +1,7 @@
 # Ötöslottó szimulátor
 ### Addíg húzunk amíg ötösünk nem lesz!
 
-#### Példa futttatás
+#### Példa futttatás:
 
 > python lotto_szimulator.py --megjatszott_szamok "16,61,71,77,89"  
 
